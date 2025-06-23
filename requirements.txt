@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 langchain
-langchain-openai
+langchain-groq
 langchain-community
 langgraph
 pydantic
